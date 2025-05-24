@@ -4,9 +4,9 @@ public class Exercicio1 {
     public static void main(String[] args) {
        
         Scanner sc = new Scanner(System.in);
-        int num1 = 0;
-        int num2 = 0;
-        int soma = 0;
+        int num1;
+        int num2;
+        int soma;
 
         System.out.print("Digite o primeiro número inteiro: ");
         num1 = sc.nextInt();
