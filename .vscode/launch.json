@@ -1,0 +1,64 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Curso Java_85248900"
+        },
+        {
+            "type": "java",
+            "name": "ForTeste",
+            "request": "launch",
+            "mainClass": "ForTeste",
+            "projectName": "Curso Java_85248900"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "Curso Java_85248900"
+        },
+        {
+            "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "Curso Java_85248900"
+        },
+        {
+            "type": "java",
+            "name": "WhileTeste",
+            "request": "launch",
+            "mainClass": "WhileTeste",
+            "projectName": "Curso Java_85248900"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Products",
+            "request": "launch",
+            "mainClass": "Products",
+            "projectName": "Curso Java_85248900"
+        },
+        {
+            "type": "java",
+            "name": "Raiz",
+            "request": "launch",
+            "mainClass": "Raiz",
+            "projectName": "Curso Java_85248900"
+        }
+    ]
+}
